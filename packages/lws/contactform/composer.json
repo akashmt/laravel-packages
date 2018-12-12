@@ -1,0 +1,16 @@
+{
+    "name": "lws/contactform",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "Akash",
+            "email": "akash.patel@manektech.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+          "lws\\contactform\\": "src/"
+      }
+  }
+}
